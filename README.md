@@ -1,4 +1,4 @@
-**Building an Intuition** (incomplete)
+<h1>**Building an Intuition**</h1> (incomplete)
 
 A simple regression model, complexified to a Ridge Regression CV.
 

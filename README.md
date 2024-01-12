@@ -2,10 +2,10 @@
 
 (incomplete)
 
-A simple regression model, complexified to a Ridge Regression CV. Potentially investigating the use of ensemble methods later.
+A simple regression model, to be complexified to a Ridge Regression CV.
 
-It's my personal suspicion that within the ML research process, model intuition should come well before data collection. The rationale for this comes from the fact that there does not seem to be any noteworthy increases in efficiency and profitability from most companies that utilize AI / ML algorithms to drive better decision making. Whether this conclusion I arrived at based on this phenomena is correct or not won't be investigated in this post, but I think regardless of whether this idea holds any merit or not, there's a lot of value to be found in building an intuition for ML models from first principles because it creates an understanding for what is happening under the hood of these popular frameworks like SKLearn, PyTorch, TensorFlow, etc. In other words, I am attempting to create a framework here for learning what kind of tasks I can use a hammer for vs what kind of tasks I can use a screw driver for. Except with more complicated mathematics. 
+Model intuition should come well before data collection in ML. The rationale for this comes from the fact that there does not seem to be any noteworthy increases in efficiency and profitability from most companies that utilize AI / ML algorithms to drive better decision making. Whether this conclusion based on the observed phenomena is correct or not won't be investigated in this post, but regardless of whether this idea holds any merit or not, there's a lot of value to be found in building an intuition for ML models from first principles because it creates an understanding for what is happening under the hood of these popular frameworks like SKLearn, PyTorch, TensorFlow, etc. In other words, I am attempting to create a framework here for learning what kind of tasks I can use a hammer for vs what kind of tasks I can use a screw driver for. Except the hammer and screwdriver are made of math. 
 
-<h3><b>You'll find the main program under "Ridge Regression 2"</b></h3>
+<h3><b>The main program is under "Ridge Regression 2"</b></h3>
 
-The rest of the files are just my attempt to share with you my development process. 
+The rest of the files are an attempt to share the development process. 

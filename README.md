@@ -6,4 +6,4 @@ A simple regression model, to be complexified to a Ridge Regression CV.
 
 The main program is under "Ridge Regression 2".
 
-The rest of the files are an attempt to share the development process. 
+The rest of the files are an attempt to keep track of my progress. 
